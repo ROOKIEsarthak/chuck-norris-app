@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-app/static/css/main.bd7a1213.css",
+    "main.js": "/chuck-norris-app/static/js/main.670a3b69.js",
+    "index.html": "/chuck-norris-app/index.html",
+    "main.bd7a1213.css.map": "/chuck-norris-app/static/css/main.bd7a1213.css.map",
+    "main.670a3b69.js.map": "/chuck-norris-app/static/js/main.670a3b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7a1213.css",
+    "static/js/main.670a3b69.js"
+  ]
+}
